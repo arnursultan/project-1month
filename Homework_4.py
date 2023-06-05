@@ -24,13 +24,10 @@
 # print(" Слово << Python >> : ", text_tuple.count("Python"))
 
 #Задание 6
-#numbers = {'num_1' : 1, 'num_2' : 2, 'num_3' : 3, 'num_100' : 100}
-
-#numbers['num_1'] = 1 * 5 
-#numbers['num_2'] = 2 * 5
-#numbers['num_3'] = 3 * 5
-#numbers['num_100'] = 100 * 5
-#print(numbers)
+# dictionary_1 = {'a': 300, 'b': 400} 
+# dictionary_2 = {'c': 500, 'd': 600}
+# dictionary_1.update(dictionary_2)
+# print(dictionary_1)
 
 #Задание 7
 # numbers = {'num_1' : 1 * 5, 'num_2' : 2 * 5, 'num_3': 3 * 5, 'num_100' : 100 * 5}
