@@ -30,11 +30,8 @@
 # print(dictionary_1)
 
 #Задание 7
-# numbers = {'num_1' : 1 * 5, 'num_2' : 2 * 5, 'num_3': 3 * 5, 'num_100' : 100 * 5}
-# result = 1
-# for key in numbers:
-#     result = result * numbers[key]
-# print(result)
+# numbers = {'num_1' : 1, 'num_2' : 2,'num_3' : 3, 'num_100' : 100}
+# print(numbers['num_1'] * 5, numbers['num_2'] * 5, numbers['num_3'] * 5, numbers['num_100'] * 5)
 
 #Задание 8
 # student = {'name' : 'Askhat', 'age' : 17 * 2}
