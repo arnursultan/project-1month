@@ -12,15 +12,16 @@
 # text = "I don’t care what you think about me. I don’t think about you at all."
 # print(Counter(findall('\S*\w', text.lower())))
 
-#Задание 3
-# def isoramm(word):
-#    word_dict = list(word)
-#    no_duble = set(word)
-#    if len(word_dict) == len(no_duble):
-#        print("True")
-#    else:
-#        print("False")
-# isoramm(input("Введите слово: "))
+# #Задание 3
+# def isogramm(word):
+#     no_duplicate = set(word)
+#     if len(word) == len(no_duplicate):
+#         return True
+#     else:
+#         return False
+
+# result = isogramm(input("Введите слово: "))
+# print(result)
 
 #Задание 4
 # n1 = int(input("Введите целое число: "))
